@@ -1,1 +1,33 @@
-<meta http-equiv="refresh" content="0; url=https://Iceneo.github.io/WeatherApp/src/index.html" />
+<!DOCTYPE html>
+<html lang="ru">
+  <head>
+      <meta charset="UTF-8">
+      <title>Погода</title>
+      <script src="https://api-maps.yandex.ru/2.1/?apikey=7edc34b1-c204-449d-b556-71c472f97c58&lang=ru_RU" type="text/javascript"></script>
+  </head>
+  <body>
+  <header class = "header">
+  </header>
+    <main>
+        <h1 class = "title">Weather App</h1>
+        <button class="addBtn">Добавить панель</button>
+        <ul class="inputter__list">
+            <li class="inputter__item">
+                <div class="inputter__item-container">
+                     Долгота <input class="inputter-item__field">
+                </div>
+                <div class="inputter__item-container">
+                     Ширина <input class="inputter-item__field">
+                </div>
+                <div class = "inputter__map">
+                </div>
+                <button class="inputter__btn">Показать погоду</button>
+                <div class = "inputter__img">
+                    <img src="img/unknown.png" alt="погода">
+                </div>
+            </li>
+        </ul>
+    </main>
+  <script src = "script.js"></script>
+  </body>
+</html>
