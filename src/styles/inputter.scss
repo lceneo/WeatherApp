@@ -1,0 +1,43 @@
+.inputter{
+  &__list{
+      padding-top: 70px;
+      display: flex;
+      flex-wrap: wrap;
+  }
+  &__item{
+    font-size:24px;
+    padding-right: 50px;
+    padding-top: 50px;
+    list-style-type: none;
+    &-container{
+        margin-top: 10px;
+    }
+    &-widget{
+      margin-left: 80px;
+    }
+  }
+  &__map{
+    margin-top: 30px;
+    margin-left: 10px;
+    width: 500px;
+    height: 300px;
+    background-color: black;
+  }
+  &__btn{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 135px;
+    background: #355FCA;
+    border-radius: 8px;
+    width: 200px;
+    height: 45px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 48px;
+    color: #FFFFFF;
+  }
+  &__img{
+    margin-left: 200px;
+  }
+}

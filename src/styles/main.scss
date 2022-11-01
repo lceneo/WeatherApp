@@ -1,0 +1,29 @@
+@use "./inputter.scss";
+@use "./header.scss";
+
+
+body{
+  margin-top: 0px;
+  margin-left: 0px;
+  font-family: Inter, "sans-serif";
+}
+
+.title{
+  margin-left: 800px;
+  margin-top: 30px;
+  color: #355FCA;
+  font-size: 54px;
+}
+
+.addBtn{
+  background: #a3b2ec;
+  margin-left: 855px;
+  border-radius: 8px;
+  width: 200px;
+  height: 45px;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 48px;
+  color: #FFFFFF;
+}
