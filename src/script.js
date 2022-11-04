@@ -12,10 +12,10 @@
         const newPanel = document.createElement("li");
         newPanel.className = "inputter__item";
         newPanel.innerHTML = "<div class=\"inputter__item-container\">\n" +
-            "                     Долгота <input class=\"inputter-item__field\">\n" +
+            "                     Широта <input class=\"inputter-item__field\">\n" +
             "                </div>\n" +
             "                <div class=\"inputter__item-container\">\n" +
-            "                     Ширина <input class=\"inputter-item__field\">\n" +
+            "                     Долгота <input class=\"inputter-item__field\">\n" +
             "                </div>\n" +
             "                <div class = \"inputter__map\">\n" +
             "                </div>\n" +
