@@ -17,4 +17,4 @@
 
 ![image](https://user-images.githubusercontent.com/94864786/199300443-392f42c6-c7b5-4041-85ff-f1733e28b764.png)
 
-Сайт выложен на хостинг(ссылка на сайт: http://cg99510.tmweb.ru/)
+Сайт выложен на хостинг(ссылка на сайт: http://cu91083.tmweb.ru/)
